@@ -24,7 +24,7 @@ Feel free to explore the dashboard and the code behind it! Feedback and suggesti
 [Link to the Dashboard](https://app.powerbi.com/groups/me/reports/96a644da-5ebe-45bf-abc7-558813720233/ReportSection?experience=power-bi)
 
 ## Screenshots:
-![Dashboard Overview
+![KS-Dasboard](https://github.com/user-attachments/assets/c953c8d8-a203-49dc-975a-3dd2fbfbc811)
 
 ---
 
