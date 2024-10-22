@@ -21,7 +21,7 @@ Welcome to my **Kickstarter Projects Dashboard**! This project analyzes crowdfun
 
 Feel free to explore the dashboard and the code behind it! Feedback and suggestions are welcome.
 
-[Link to the Dashboard]([https://app.powerbi.com/groups/me/reports/96a644da-5ebe-45bf-abc7-558813720233/ReportSection?experience=power-bi])
+[Link to the Dashboard](https://app.powerbi.com/groups/me/reports/96a644da-5ebe-45bf-abc7-558813720233/ReportSection?experience=power-bi)
 
 ## Screenshots:
 ![Dashboard Overview] 
